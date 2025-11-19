@@ -31,8 +31,8 @@ This project is currently in **active development**.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/skillbridge.git
-cd skillbridge
+git clone https://github.com/asheek21/mentor-log.git
+cd mentor-log
 
 # Install PHP dependencies
 composer install
